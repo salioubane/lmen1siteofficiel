@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lipmen 1 FC</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <style>
+    /* Styles CSS personnalisés */
+  </style>
+</head>
+<body>
+  <!-- Menu du haut sticky -->
+  <nav class="navbar navbar-expand-sm sticky-top navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">Lipmen 1 FC</a>
+    <!-- Ajoutez les liens vers les autres sections ici -->
+  </nav>
+
+  <!-- Section Joueurs -->
+  <section id="joueurs" class="container">
+    <h2>Liste des joueurs</h2>
+    
+    <!-- Joueur 1 -->
+    <div class="card">
+      <div class="card-header">
+        Joueur 1
+      </div>
+      <div class="card-body">
+        <h5 class="card-title"> YOUSSOUF ABDULAHI</h5>
+        <p class="card-text">
+          Poste: Gardien de but<br>
+          Numéro: 1<br>
+          Nationalité: Nigerien<br>
+          Salaire: 50.000.000/an
+        </p>
+      </div>
+    </div>
+
+    <!-- Ajoutez les autres joueurs de la même manière -->
+
+  </section>
+
+  <!-- Scripts Bootstrap -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>   
+</body>
+</html>
+
+  
+  
+
+  <!-- Section Joueurs -->
+  <section id="joueurs" class="container">
+    
+    
+    <!-- Joueur 2 -->
+    <div class="card">
+      <div class="card-header">
+        Joueur 2
+      </div>
+      <div class="card-body">
+        <h5 class="card-title"> PAPE DIADJI TALLA</h5>
+        <p class="card-text">
+          Poste: Arriere gauche<br>
+          Numéro: 14<br>
+          Nationalité: Senegalais<br>
+          Salaire: 28.000.000/an
+        </p>
+      </div>
+    </div>
+
+    <!-- Ajoutez les autres joueurs de la même manière -->
+
+  </section>
+
+  <section id="autre-categorie" class="container">
+    <h2></h2>
+    
+    <!-- Joueur 3-->
+    <div class="card">
+      <div class="card-header">
+        Joueur 3
+      </div>
+      <div class="card-body">
+        <h5 class="card-title"> COSME DENON</h5>
+        <p class="card-text">
+          Poste: Defenseur central<br>
+          Numéro: 4<br>
+          Nationalité: Beninois<br>
+          Salaire: 34.000.000/an
+        </p>
+      </div>
+    </div>
+
+    <!-- Ajoutez les autres joueurs de la même manière -->
+
+  </section>
+
+  <!-- Scripts Bootstrap -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  </section>
+
+  <section id="autre-categorie" class="container">
+    <h2></h2>
+    
+    <!-- Joueur 3-->
+    <div class="card">
+      <div class="card-header">
+        Joueur 4
+      </div>
+      <div class="card-body">
+        <h5 class="card-title"> MOUSTAPHA LO</h5>
+        <p class="card-text">
+          Poste: Defenseur central<br>
+          Numéro: 3<br>
+          Nationalité: Senegalais<br>
+          Salaire: 54.000.000/an
+        </p>
+      </div>
+    </div>
+
+    <!-- Ajoutez les autres joueurs de la même manière -->
+
+  </section>
+
+  <!-- Scripts Bootstrap -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <section id="autre-categorie" class="container">
+    <h2></h2>
+    
+    <!-- Joueur 3-->
+    <div class="card">
+      <div class="card-header">
+        Joueur 5
+      </div>
+      <div class="card-body">
+        <h5 class="card-title"> OUSMANE .K.NDIAYE</h5>
+        <p class="card-text">
+          Poste: Arriere droit<br>
+          Numéro: 2<br>
+          Nationalité: Senegalais<br>
+          Salaire: 54.000.000/an
+        </p>
+      </div>
+    </div>
+
+    <!-- Ajoutez les autres joueurs de la même manière -->
+
+  </section>
+
+  <!-- Scripts Bootstrap -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <section id="autre-categorie" class="container">
+    <h2></h2>
+    
+    <!-- Joueur 3-->
+    <div class="card">
+      <div class="card-header">
+        Joueur 7
+      </div>
+      <div class="card-body">
+        <h5 class="card-title"> VINCENT .J. DIOUF</h5>
+        <p class="card-text">
+          Poste: Milieu central<br>
+          Numéro: 6<br>
+          Nationalité: Senegalais<br>
+          Salaire: 89.000.000/an
+        </p>
+      </div>
+    </div>
+
+    <!-- Ajoutez les autres joueurs de la même manière -->
+
+  </section>
+
+  <!-- Scripts Bootstrap -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <section id="autre-categorie" class="container">
+    <h2></h2>
+    
+    <!-- Joueur 3-->
+    <div class="card">
+      <div class="card-header">
+        Joueur 8
+      </div>
+      <div class="card-body">
+        <h5 class="card-title"> SALIOU BANE</h5>
+        <p class="card-text">
+          Poste: Milieu droit<br>
+          Numéro: 10<br>
+          Nationalité: Americain<br>
+          Salaire: 90.000.000/an
+        </p>
+      </div>
+    </div>
+
+    <!-- Ajoutez les autres joueurs de la même manière -->
+
+  </section>
+
+  <!-- Scripts Bootstrap -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <section id="autre-categorie" class="container">
+    <h2></h2>
+    
+    <!-- Joueur 3-->
+    <div class="card">
+      <div class="card-header">
+        Joueur 9
+      </div>
+      <div class="card-body">
+        <h5 class="card-title"> IBRAHIMA DIENG</h5>
+        <p class="card-text">
+          Poste: Attaquant gauche<br>
+          Numéro: 11<br>
+          Nationalité: Belge<br>
+          Salaire: 90.000.000/an
+        </p>
+      </div>
+    </div>
+
+    <!-- Ajoutez les autres joueurs de la même manière -->
+
+  </section>
+
+  <!-- Scripts Bootstrap -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<section id="autre-categorie" class="container">
+    <h2></h2>
+    
+    <!-- Joueur 3-->
+    <div class="card">
+      <div class="card-header">
+        Joueur 10
+      </div>
+      <div class="card-body">
+        <h5 class="card-title"> MOULAYE HAIDARA</h5>
+        <p class="card-text">
+          Poste: Attaquant de point<br>
+          Numéro: 18<br>
+          Nationalité: Malien<br>
+          Salaire: 92.000.000/an
+        </p>
+      </div>
+    </div>
+
+    <!-- Ajoutez les autres joueurs de la même manière -->
+
+  </section>
+
+  <!-- Scripts Bootstrap -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <section id="autre-categorie" class="container">
+    <h2></h2>
+    
+    <!-- Joueur 3-->
+    <div class="card">
+      <div class="card-header">
+        Joueur 11
+      </div>
+      <div class="card-body">
+        <h5 class="card-title"> ALBERT DIATTA</h5>
+        <p class="card-text">
+          Poste: Attaquant droit<br>
+          Numéro: 7<br>
+          Nationalité: Senegalais<br>
+          Salaire: 92.000.000/an
+        </p>
+      </div>
+    </div>
+
+    <!-- Ajoutez les autres joueurs de la même manière -->
+
+  </section>
+
+  <!-- Scripts Bootstrap -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
